@@ -1,0 +1,18 @@
+.root{
+    -fx-background-color: #D8D8D8;
+    -fx-font-weight: bold;
+}
+
+.label{
+    -fx-font-size: 9.5pt;
+    -fx-text-fill: #AB4642;
+}
+.yes-button{
+    -fx-background-radius: 4;
+    -fx-background-color: #A1B56C;
+}
+
+.no-button{
+    -fx-background-radius: 4;
+    -fx-background-color: #A16946;
+}

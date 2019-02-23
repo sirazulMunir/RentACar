@@ -1,0 +1,44 @@
+.root{
+    /*-fx-background-color: #383838;*/
+    -fx-background-image: url("file:////C:/Users/USER/IdeaProjects/Rent%20A%20Car/src/Images/car2.jpg");
+    -fx-background-size: cover;
+}
+
+.label{
+    -fx-text-fill: #181818;
+    -fx-font-weight: bold;
+    -fx-font-size: 12pt;
+}
+.textField{
+    -fx-font-size: 10pt;
+    -fx-font-weight: bold;
+    -fx-background-radius: 4;
+}
+.messageField{
+    -fx-background-color: #FF0000;
+    -fx-text-fill: #FFFFFF;
+}
+.button{
+    -fx-background-color: #FFFF00;
+    -fx-text-fill: #181818;
+    -fx-font-size: 11pt;
+    -fx-background-radius: 4;
+}
+.button-admin{
+    -fx-background-color: #FF0000;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-size: 11pt;
+    -fx-background-radius: 4;
+}
+.button-feedback{
+    -fx-background-color: #181818;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-size: 11pt;
+    -fx-background-radius: 4;
+}
+
+/*.textField{
+    -fx-font-size: 8pt;
+    -fx-background-radius: 4;
+}*/
+
